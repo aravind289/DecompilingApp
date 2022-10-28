@@ -7,9 +7,10 @@
 1. Created an application that save the characteristics of a person like weight , height and eye color.
 2. The data is stored in firestore database.
 
-<img width="1006" alt="image" src="https://user-images.githubusercontent.com/29579313/198727453-457cf9e2-6610-4027-929b-ed1b02cd5ea8.png">
+<img width="357" alt="image" src="https://user-images.githubusercontent.com/29579313/198747994-375095bc-ef5b-447e-b94f-a8dd38f9d107.png">
 
-<img width="1098" alt="image" src="https://user-images.githubusercontent.com/29579313/198747768-b04dfaba-42ea-4d03-97c3-93aed655901f.png">
+
+<img width="1099" alt="image" src="https://user-images.githubusercontent.com/29579313/198748024-d1935c6a-d5b3-4fe3-8a6f-f0a56324dd9f.png">
 
 
 3. On click of "retrieve user" , all the data stored in database is retrieved.
