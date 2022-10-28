@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditText android:id="@id/user_name" android:layout_width="fill_parent" android:layout_height="50.0dip" android:hint="user Name" android:inputType="text" />
+    <EditText android:id="@id/user_height" android:layout_width="fill_parent" android:layout_height="50.0dip" android:hint="User Height" android:inputType="number" />
+    <EditText android:id="@id/user_weight" android:layout_width="fill_parent" android:layout_height="50.0dip" android:hint="User Weight" android:inputType="number" />
+    <EditText android:id="@id/user_eye_color" android:layout_width="fill_parent" android:layout_height="50.0dip" android:hint="User eye color" android:inputType="text" />
+    <Button android:id="@id/save_user" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Save user" android:onClick="saveUser" />
+    <Button android:id="@id/retrieve_user" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Retrieve user details" android:onClick="retrieveDetails" />
+    <TextView android:textSize="20.0sp" android:id="@id/details_page" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>
